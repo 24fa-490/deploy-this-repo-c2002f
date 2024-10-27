@@ -7,7 +7,7 @@ export async function load() {
         containernumber,
         nameofship,
         containersize,
-        dateContainershipped
+        datecontainershipped
     FROM
         containers`;
 

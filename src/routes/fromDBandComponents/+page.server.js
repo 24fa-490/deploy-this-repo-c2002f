@@ -4,12 +4,12 @@ import sql from '$lib/server/database';
 export async function load() {
     const rows = sql`
     SELECT
-        containerNumber,
-        nameOfShip,
-        containerSize,
-        dateContainerShipped
+        containernumber,
+        nameofship,
+        containersize,
+        datecontainershipped
     FROM
-        containersz`;
+        containers`;
 
     console.log({rows});
 
