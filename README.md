@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+https://deploy-this-repo-c2002f-8xcp3tz3f-c2002fs-projects.vercel.app
 
 
